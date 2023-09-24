@@ -1,0 +1,10 @@
+# Arquivos de compilação
+bin/
+tmp/
+*.class
+
+# Arquivos do Visual Studio Code
+.vscode/
+
+# Arquivos específicos do sistema (por exemplo, para sistemas macOS)
+.DS_Store
